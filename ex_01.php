@@ -2,7 +2,7 @@
 
 // (x² + y²) / (x + y)
 
-function calcularFormula($x, $y)
+function calcularFormula($x, $y);
 {
     if (($x + $y) == 0) {
         return "Não é possível realizar a divisão por zero.";
